@@ -4,9 +4,7 @@
 ## HTML, jQuery + CSS
 -
 
-
 ### Link to deployed application
-
 
 #### Screenshot
 
